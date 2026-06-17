@@ -180,8 +180,8 @@ The project enables stakeholders to monitor sales performance, understand custom
 
 ## 👨‍💻 Author
 
-**Chowdri Furkhan**
+**Ayaan Pasha**
 
-Data Analyst | Data Scientist | AI/ML Engineer
+Data Analyst | AI/ML Engineer
 
 ⭐ If you found this project useful, consider giving it a star!
