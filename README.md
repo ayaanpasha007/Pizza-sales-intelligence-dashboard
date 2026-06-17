@@ -36,17 +36,6 @@ The goal is to provide a centralized analytics solution that supports strategic 
 
 ---
 
-## 📊 Dashboard Preview
-
-### Home Dashboard
-
-![alt text](<Home Dashboard.png>)
-
-### Best & Worst Sellers Dashboard
-
-![alt text](<Best Worst Sellers Dashboard.png>)
-
----
 
 ## 🛠️ Tools & Technologies Used
 
